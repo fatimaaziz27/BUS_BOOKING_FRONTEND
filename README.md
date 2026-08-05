@@ -29,3 +29,7 @@ This project provides a complete booking interface with bus search, route displa
 ---
 
 ## 📂 Project Structure
+BUS_TICKET_BOOKING_UI/
+│
+├── index.html
+└── README.md
