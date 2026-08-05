@@ -33,3 +33,36 @@ BUS_TICKET_BOOKING_UI/
 │
 ├── index.html
 └── README.md
+
+
+---
+
+## 🎯 Project Purpose
+
+This project was created to practice and improve front-end development skills, including:
+
+- HTML page structure
+- CSS styling and layouts
+- Responsive web design
+- JavaScript DOM manipulation
+- Event handling
+- Dynamic UI updates
+
+---
+
+## 🔮 Future Improvements
+
+- Connect with a backend API
+- Add database integration
+- Implement real user authentication
+- Add online payment system
+- Store booking data permanently
+
+---
+
+## 👩‍💻 Author
+
+**Fatima Aziz**
+
+GitHub:  
+https://github.com/fatimaaziz27
